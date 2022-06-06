@@ -1,5 +1,5 @@
 Team Hustlers
-1-Amol Godse(agodse21)
-2-Bhavesh Shahani(BhaveshShahani)
-3-Sanu Kumar Singh(sanu7023)
-4-Vinayak Narlawar(vinu7461)
+1-Amol Godse(agodse21)-created repo and navbar
+2-Bhavesh Shahani(BhaveshShahani)-created mens section page
+3-Sanu Kumar Singh(sanu7023)-created login page
+4-Vinayak Narlawar(vinu7461)-created signup page
